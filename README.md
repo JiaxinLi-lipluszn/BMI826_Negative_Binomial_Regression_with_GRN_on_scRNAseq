@@ -8,6 +8,10 @@ Incorporate NB regression into the gene regulatory network inference algorithms 
 ## Implementations
 * [X] Negative Binomial distribution with gene-wise alpha (NegativeBinomialRegression.py)
 * [X] Parallel computing of Negative Binomial distribution (NegativeBinomialRegression_wrapper.py)
+* [X] Task 1 evaludation
+  - [X] seuare error
+  - [X] pearson correlation coefficient
+* [ ] Task 2 evaludation 
 * [ ] Parameter sharing between genes, genes with similar expression profiles will share the parameters in negative binomial regression 
 * [ ] Find the classes and functions that need to be modified in MERLIN.
 * [ ] Incorporate Negative Binomial Regression into MERLIN
