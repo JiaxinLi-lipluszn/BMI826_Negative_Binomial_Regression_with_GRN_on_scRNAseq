@@ -1,2 +1,2 @@
-* pearson_cc_seqdepth_vs_regulators.png:
+- pearson_cc_seqdepth_vs_regulators.png:
 A scatter plot with each point as a gene, x axis is the pearson correlation coefficients between true value and the prediction from model with only seuqencing depth as the regressor. y axis is pearson cc between true value and prediction from the model with regulators as the regressors.
